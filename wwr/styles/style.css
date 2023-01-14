@@ -13,11 +13,16 @@ body {
     background-color:#ffffff;
     color:#000000; 
 }
-#header {
+header {
     background-color:#134266;
     color:#ffffff;
+    display:inline-block;
 }
-#nav a:hover {
+header img.logo { height:80px; }
+nav {
+  display:inline-block;
+}
+nav a:hover {
   color:#78c5d7;
 }
 #.book, .join
