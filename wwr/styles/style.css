@@ -25,13 +25,14 @@ nav {
     color:#ffffff;
 }
 nav a, nav a:visited {
-  text-align:center;
-  text-decoration:none;
-  color:#ffffff;
+    text-align:center;
+    text-decoration:none;
+    color:#ffffff;
 }
 nav a:hover {
-  color:#78c5d7;
-  text-decoration:underline;
+    background-color:#78c5d7;
+    color:#134266;
+    text-decoration:underline;
 }
 .book, .join {
     text-decoration:none;
