@@ -6,7 +6,7 @@ nav a, #hero-msg h1, #hero-msg h4, .button-box, main section, #hero {
     text-align:center;
 }
 #background {
-    heigth:725px;
+    height:725px;
 }
 
 body {
@@ -35,6 +35,8 @@ nav a:hover {
 }
 .book, .join {
     text-decoration:none;
+    background-color:#134266;
+    color:#ffffff;
 }
 .book:hover, .join:hover {
     color:#78c5d7;
@@ -54,8 +56,8 @@ footer p a:hover {
     background-color:#fce172;
     color:#000000;
 }
-.msg {
-    background-color:#fce172
+section.msg {
+    background-color:#fce172;
     color:#000000;
 }
 footer {
