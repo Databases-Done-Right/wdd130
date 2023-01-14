@@ -42,15 +42,7 @@ nav a:hover {
     color:#78c5d7;
     background-color:#134266;
 }
-footer a {
-    text-decoration:none;
-}
-footer p {
-    font-size:1.2em;
-}
-footer p a:hover {
-    text-decoration:underline;
-}
+
 
 #background {
     background-color:#fce172;
@@ -63,6 +55,16 @@ section.msg {
 footer {
     background-color:#134266;
     color:#ffffff;
+}
+footer a {
+    text-decoration:none;
+    color:#ffffff;
+}
+footer p {
+    font-size:1.2em;
+}
+footer p a:hover {
+    text-decoration:underline;
 }
 
 #hero #hero-box > img {
