@@ -20,9 +20,14 @@ header {
 header > a > img.logo {
     height:80px;
 }
-nav a {
+nav {
+    background-color:#134266;
+    color:#ffffff;
+}
+nav a, nav a:visited {
   text-align:center;
   text-decoration:none;
+  color:#ffffff;
 }
 nav a:hover {
   color:#78c5d7;
