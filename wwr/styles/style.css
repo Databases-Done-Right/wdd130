@@ -25,3 +25,7 @@ body {
 ##background
 #.msg
 #footer
+
+#hero #hero-box > img {
+    margin:0px auto;
+}
