@@ -10,11 +10,12 @@ nav a, #hero-msg h1, #hero-msg h4, .button-box, main section {
 }
 
 body {
-    background-color:#134266;
-    color:#fff; 
+    background-color:#ffffff;
+    color:#000000; 
 }
 #header {
     background-color:#134266;
+    color:#ffffff;
 }
 #nav a:hover {
   color:#78c5d7;
