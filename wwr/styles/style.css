@@ -17,6 +17,9 @@ header {
     background-color:#134266;
     color:#ffffff;
 }
+header > a > img.logo {
+    height:80px;
+}
 nav a {
   text-align:center;
   text-decoration:none;
