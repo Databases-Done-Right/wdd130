@@ -32,6 +32,7 @@ header {
 }
 header > a > img.logo {
     height:80px;
+    padding:10px;
 }
 nav {
     background-color:#134266;
@@ -41,6 +42,7 @@ nav a, nav a:visited {
     text-align:center;
     text-decoration:none;
     color:#ffffff;
+    padding:35px;
 }
 nav a:hover {
     background-color:#78c5d7;
@@ -52,6 +54,7 @@ nav a:hover {
     background-color:#134266;
     color:#ffffff;
     font-size:18px;
+    padding:15px 30px;
 }
 .book:hover, .join:hover {
     color:#78c5d7;
@@ -62,8 +65,12 @@ nav a:hover {
 }
 .msg {
     line-height:1.5em;
+    padding:35px;
 }
-.msg p { font-size:.8em; }
+.msg p {
+    font-size:.8em;
+    padding-bottom:15px;
+}
 
 #background {
     background-color:#fce172;
@@ -76,6 +83,7 @@ section.msg {
 footer {
     background-color:#134266;
     color:#ffffff;
+    padding:25px 50px;
 }
 footer a {
     text-decoration:none;
@@ -87,6 +95,9 @@ footer p {
 footer p a:hover {
     text-decoration:underline;
 }
+footer .social img {
+    padding-top:15px; 
+}
 
 #hero #hero-box > img {
     margin:0px auto;
@@ -94,4 +105,5 @@ footer p a:hover {
 
 .icon {
     width:80px;
+    padding-top:10px;
 }
