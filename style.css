@@ -1,9 +1,12 @@
+body { margin:0; }
 a:hover {
     background-color: white;
     color: steelblue;
   }
-img { width:30%; display:block; margin:0px auto; border:solid 4px steelblue; }
-a { font-size:1em; }
-h1 { text-align:center; }
+img { width:80%; display:block; margin:50px auto; border:solid 4px steelblue; padding:25px; }
+a { font-size:1em; padding:10px; color:white; margin:40px; line-height:1.5em; }
+h1 { text-align:center; margin:50px 0; }
 p { text-align:center; padding:10px; }
-nav, footer { text-align:center; background-color:steelblue; padding:10px; }
+nav { text-align:center; background-color:steelblue; padding:10px; }
+footer { text-align:center; background-color:steelblue; padding:25px; }
+footer p { padding:25px; color:white; font-size:20px; margin:20px auto; }
