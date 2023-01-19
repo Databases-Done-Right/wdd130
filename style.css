@@ -9,6 +9,6 @@ h1 { text-align:center; margin:50px 0; }
 p { text-align:center; padding:10px; }
 nav { text-align:center; background-color:steelblue; padding:10px; border-bottom:solid 1px #fff; }
 nav a { font-size:18px; text-decoration:none; font-weight:bold; }
-main p { font-size:2em; max-width:800px; max-width:800px; margin:0px auto; }
+main p { font-size:2em; max-width:800px; margin:0px auto; }
 footer { text-align:center; background-color:steelblue; padding:25px; border-top:solid 1px #fff; }
 footer p { padding:25px; color:white; font-size:20px; margin:20px auto; }
