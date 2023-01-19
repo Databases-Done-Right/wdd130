@@ -3,10 +3,12 @@ a:hover {
     background-color: white;
     color: steelblue;
   }
-img { width:80%; display:block; margin:50px auto; border:solid 4px steelblue; padding:25px; }
+img { width:30%; display:block; margin:50px auto; border:solid 1px steelblue; padding:25px; }
 a { font-size:1em; padding:10px; color:white; margin:40px; line-height:1.5em; }
 h1 { text-align:center; margin:50px 0; }
 p { text-align:center; padding:10px; }
-nav { text-align:center; background-color:steelblue; padding:10px; }
-footer { text-align:center; background-color:steelblue; padding:25px; }
+nav { text-align:center; background-color:steelblue; padding:10px; border-bottom:solid 1px #fff; }
+nav a { font-size:18px; text-decoration:none; font-weight:bold; }
+main p { font-size:2em; }
+footer { text-align:center; background-color:steelblue; padding:25px; border-top:solid 1px #fff; }
 footer p { padding:25px; color:white; font-size:20px; margin:20px auto; }
