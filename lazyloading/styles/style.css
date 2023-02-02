@@ -1,9 +1,10 @@
 body { font-family:"Open Sans", Lato, Helvetica, sans-serif; font-size:1.2em; }
 header, footer { background-color:#3bad67; color:#fff; font-family:"Libre Baskerville", Verdana, "IM Fell French Canon SC"; }
 .container { max-width:1200px; margin:0px auto; }
+header > div { display:grid; grid-template-columns: 1fr 4fr; }
 header > div > div { display:inline-block; }
-header > div > div:nth-child(1) { width:20%; text-align:left; }
-header > div > div:nth-child(2) { width:75%; text-align:right; }
+header > div > div:nth-child(1) { text-align:left; }
+header > div > div:nth-child(2) { text-align:right; }
 header a, footer > div > div:nth-child(2) a { color:#fff; font-size:1.2em; font-weight:bold; text-decoration:none; padding:10px 20px; }
 footer > div > div:nth-child(2) a { font-size:1em; font-weight:normal; }
 header a:hover { text-decoration:underline; }
