@@ -10,7 +10,8 @@ header a:hover { text-decoration:underline; }
 header { height:80px; }
 header nav { padding:20px 0px; }
 #main_hero_image img { width:100%; }
-img.float-right { float:right; border:solid 1px #174412; padding:1px; margin:0px 0px 10px 20px; }
+img.float-left { float:left; border:solid 1px #174412; padding:1px; margin:0px 20px 10px 0px; width:50%; }
+img.float-right { float:right; border:solid 1px #174412; padding:1px; margin:0px 0px 10px 20px; width:50%; }
 footer { min-height:50px; padding:20px 30px; }
 footer > div > div { width:33%; display:inline-block; }
 footer > div > div:nth-child(1) { text-align:left; }
