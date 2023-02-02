@@ -1,5 +1,7 @@
 body { font-family:"Open Sans", Lato, Helvetica, sans-serif; font-size:1.2em; }
 header, footer { background-color:#3bad67; color:#fff; font-family:"Libre Baskerville", Verdana, "IM Fell French Canon SC"; }
+header { border-bottom:solid 2px #d95b2e; }
+footer { border-top:solid 2px #d95b2e; }
 .container { max-width:1200px; margin:0px auto; }
 header > div { display:grid; grid-template-columns: 1fr 4fr; }
 header > div > div { display:inline-block; }
@@ -12,6 +14,7 @@ header a:hover { text-decoration:underline; }
 header { height:80px; }
 header nav { padding:20px 0px; }
 #main_hero_image img { width:100%; }
+h1 { color:#174412 }
 img.float-left { float:left; border:solid 1px #174412; padding:1px; margin:0px 20px 10px 0px; width:50%; }
 img.float-right { float:right; border:solid 1px #174412; padding:1px; margin:0px 0px 10px 20px; width:50%; }
 footer { min-height:50px; padding:20px 30px; }
