@@ -12,8 +12,9 @@ footer > div > div:nth-child(2) a { font-size:1em; font-weight:normal; }
 header a:hover { text-decoration:underline; }
 #site_logo { padding:10px; }
 header { height:80px; }
-header nav { padding:20px 0px; }
+header nav { padding:25px 0px; }
 #main_hero_image img { width:100%; }
+p { margin-bottom:40px; }
 h1, b { color:#174412 }
 img.float-left { float:left; border:solid 1px #174412; padding:1px; margin:0px 20px 10px 0px; width:50%; }
 img.float-right { float:right; border:solid 1px #174412; padding:1px; margin:0px 0px 10px 20px; width:50%; }
